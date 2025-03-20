@@ -95,4 +95,4 @@ Deploy the project on a cloud platform like Vercel (frontend) and Render (backen
 **Day 30:**
 Final review, cleanup of unused files, and project submission with all necessary resources.
 
-This is all about my capstone project
+This is all about my capstone project.
