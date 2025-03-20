@@ -16,6 +16,7 @@ GoRyde is a platform that helps users book and manage rides easily. It will have
 
 
 
+
 ## Project Description
 The GoRyde platform will be built with two main parts:
 1. **Frontend:** Made using Vite (React) for fast performance and smooth experience.
