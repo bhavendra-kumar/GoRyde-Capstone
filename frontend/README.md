@@ -1,6 +1,6 @@
-<h1># GoRyde Capstone Project</h1>
+### GoRyde Capstone Project
 
-<h3>## Project Title</h3>
+###  Project Title
 **GoRyde - It is a Ride Booking and Management Platform**
 
 <h3>## Project Idea</h3>
